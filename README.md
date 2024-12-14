@@ -1,4 +1,10 @@
-# Welcome to your Expo app 👋
+# Union Bank Redesign 👋
+
+## Preview
+
+https://github.com/user-attachments/assets/d16bc783-744e-4b42-9870-befa7e1a2459
+
+Design Inspiration - [`Ayolaw`](https://x.com/ayodeji_law/status/1790047645903258076?s=46)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
